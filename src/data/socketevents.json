@@ -1,0 +1,179 @@
+/* 1 */
+{
+  "_id" : ObjectId("6069e9b05c686e13d854155a"),
+  "socket" : "1e-tjq8SG9p0iE18AAAA",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:30:40.706Z"),
+  "__v" : 0
+}
+
+/* 2 */
+{
+  "_id" : ObjectId("6069e9b05c686e13d854155b"),
+  "socket" : "EKJ-aWO-lPXws4HhAAAB",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:30:40.733Z"),
+  "__v" : 0
+}
+
+/* 3 */
+{
+  "_id" : ObjectId("6069e9b65c686e13d854155c"),
+  "socket" : "J8Q9_Qp5ciPzmLTnAAAC",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:30:46.825Z"),
+  "__v" : 0
+}
+
+/* 4 */
+{
+  "_id" : ObjectId("6069e9b95c686e13d854155d"),
+  "socket" : "FbenhjAr_J9zxcLAAAAD",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:30:49.193Z"),
+  "__v" : 0
+}
+
+/* 5 */
+{
+  "_id" : ObjectId("6069e9bb5c686e13d854155e"),
+  "socket" : "fcikCk85J2nXLIL8AAAE",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:30:51.138Z"),
+  "__v" : 0
+}
+
+/* 6 */
+{
+  "_id" : ObjectId("6069e9bd5c686e13d854155f"),
+  "socket" : "xGep3rygHSLcquDHAAAF",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:30:53.260Z"),
+  "__v" : 0
+}
+
+/* 7 */
+{
+  "_id" : ObjectId("6069e9be5c686e13d8541560"),
+  "socket" : "xGep3rygHSLcquDHAAAF",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:30:54.863Z"),
+  "__v" : 0
+}
+
+/* 8 */
+{
+  "_id" : ObjectId("6069e9bf5c686e13d8541561"),
+  "socket" : "fcikCk85J2nXLIL8AAAE",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:30:55.891Z"),
+  "__v" : 0
+}
+
+/* 9 */
+{
+  "_id" : ObjectId("6069e9c05c686e13d8541562"),
+  "socket" : "FbenhjAr_J9zxcLAAAAD",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:30:56.914Z"),
+  "__v" : 0
+}
+
+/* 10 */
+{
+  "_id" : ObjectId("6069e9c15c686e13d8541563"),
+  "socket" : "J8Q9_Qp5ciPzmLTnAAAC",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:30:57.967Z"),
+  "__v" : 0
+}
+
+/* 11 */
+{
+  "_id" : ObjectId("6069ea18d94350140748c640"),
+  "socket" : "l5_1BhHWY8ep9tm0AAAA",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:32:24.248Z"),
+  "__v" : 0
+}
+
+/* 12 */
+{
+  "_id" : ObjectId("6069ea1dc015ec140d7b36d3"),
+  "socket" : "H36v44kLccwo6KPNAAAA",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:32:29.322Z"),
+  "__v" : 0
+}
+
+/* 13 */
+{
+  "_id" : ObjectId("6069ea3dae94c914246275a9"),
+  "socket" : "uTKlipQQFJLcYxYaAAAA",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:33:01.246Z"),
+  "__v" : 0
+}
+
+/* 14 */
+{
+  "_id" : ObjectId("6069ea5ac10a001429572f37"),
+  "socket" : "x0GIMDluyarmPIPHAAAA",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:33:31.005Z"),
+  "__v" : 0
+}
+
+/* 15 */
+{
+  "_id" : ObjectId("6069ea6cf7bd31143b7aba79"),
+  "socket" : "6FpEHM6qCHH-jiBVAAAA",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:33:48.155Z"),
+  "__v" : 0
+}
+
+/* 16 */
+{
+  "_id" : ObjectId("6069ead6f7bd31143b7aba7d"),
+  "socket" : "6FpEHM6qCHH-jiBVAAAA",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:35:34.835Z"),
+  "__v" : 0
+}
+
+/* 17 */
+{
+  "_id" : ObjectId("6069ead9f7bd31143b7aba7e"),
+  "socket" : "4TEHz4-OAPD1-RNMAAAB",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:35:37.001Z"),
+  "__v" : 0
+}
+
+/* 18 */
+{
+  "_id" : ObjectId("6069eb12f7bd31143b7aba7f"),
+  "socket" : "4TEHz4-OAPD1-RNMAAAB",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:36:34.191Z"),
+  "__v" : 0
+}
+
+/* 19 */
+{
+  "_id" : ObjectId("6069eb13f7bd31143b7aba80"),
+  "socket" : "WpU9MW8AqHQt8JAZAAAC",
+  "type" : "Connected",
+  "eventTime" : ISODate("2021-04-04T16:36:35.829Z"),
+  "__v" : 0
+}
+
+/* 20 */
+{
+  "_id" : ObjectId("6069eb1ff7bd31143b7aba81"),
+  "socket" : "WpU9MW8AqHQt8JAZAAAC",
+  "type" : "Disconnect",
+  "eventTime" : ISODate("2021-04-04T16:36:47.144Z"),
+  "__v" : 0
+}
