@@ -19,3 +19,4 @@ Instructions for installing or running the project:
 - Download de ZIP File;
 - UnZIP the content;
 - Run npm install
+# react-app-gbc
